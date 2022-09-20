@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tube/static/css/main.1ef58a9e.css",
+    "main.js": "/react-tube/static/js/main.99f9b29f.js",
+    "index.html": "/react-tube/index.html",
+    "main.1ef58a9e.css.map": "/react-tube/static/css/main.1ef58a9e.css.map",
+    "main.99f9b29f.js.map": "/react-tube/static/js/main.99f9b29f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef58a9e.css",
+    "static/js/main.99f9b29f.js"
+  ]
+}
